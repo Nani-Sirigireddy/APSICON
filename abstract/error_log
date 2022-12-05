@@ -1,0 +1,3 @@
+[17-Nov-2022 22:41:54 America/Boise] PHP Warning:  Use of undefined constant pdf - assumed 'pdf' (this will throw an Error in a future version of PHP) in /home4/drmarket/public_html/app.isntnde.in/api/abstract/abstract_api.php on line 14
+[17-Nov-2022 22:43:08 America/Boise] PHP Warning:  Use of undefined constant pdf - assumed 'pdf' (this will throw an Error in a future version of PHP) in /home4/drmarket/public_html/app.isntnde.in/api/abstract/abstract_api.php on line 14
+[17-Nov-2022 22:43:15 America/Boise] PHP Warning:  Use of undefined constant pdf - assumed 'pdf' (this will throw an Error in a future version of PHP) in /home4/drmarket/public_html/app.isntnde.in/api/abstract/abstract_api.php on line 14

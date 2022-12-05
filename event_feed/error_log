@@ -1,0 +1,5 @@
+[18-Nov-2022 02:53:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/drmarket/public_html/app.isntnde.in/api/event_feed/event_feed_db.php:18
+Stack trace:
+#0 /home4/drmarket/public_html/app.isntnde.in/api/event_feed/event_feed_api.php(10): Data->getData()
+#1 {main}
+  thrown in /home4/drmarket/public_html/app.isntnde.in/api/event_feed/event_feed_db.php on line 18
